@@ -1,0 +1,24 @@
+.tabs-container {
+  width: 90%;
+}
+
+.tab-link {
+  display: block;
+  padding: 8px 16px;
+  background-color: #f2f2f2; /* Light grey background */
+  color: #333;
+  text-decoration: none;
+  border: none;
+  text-align: left;
+   border-radius: 5px; /* Apply border radius */
+  transition: background-color 0.3s ease;
+}
+
+.tab-link:hover {
+  background-color: #ddd; /* Light grey background on hover */
+}
+
+.active .tab-link {
+  background-color: #3CB2C9 ;/* Active tab background color */
+  color: white;
+}

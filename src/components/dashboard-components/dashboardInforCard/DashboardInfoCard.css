@@ -1,0 +1,55 @@
+/* DashboardInfoCard.css */
+.dashboard-info-card {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.title-style {
+  font-weight: 600 !important; /* Add !important to override other styles */; /* or your desired font weight */
+}
+
+.view-button {
+  background-color: #FCB81B!important; /* Add !important to override other styles */
+  border-radius: 8px;
+  width: 72px;
+height: 20px;
+flex-shrink: 0;
+}
+
+.red {
+  color: red;
+  text-align: center;
+/* font-family: Lexed; */
+font-size: 42px;
+font-style: normal;
+font-weight: 700 !important; /* Add !important to override other styles */;
+line-height: normal;
+}
+
+.green {
+  color: green;
+  text-align: center;
+/* font-family: Lexed; */
+font-size: 42px;
+font-style: normal;
+font-weight: 700!important; /* Add !important to override other styles */;
+line-height: normal;
+}
+
+.blue {
+ color: #093545;
+text-align: center;
+/* font-family: Lexed; */
+font-size: 42px;
+font-style: normal;
+font-weight: 700!important; /* Add !important to override other styles */;
+line-height: normal;
+}
+
+.text-style {
+  color: rgba(9, 53, 69, 0.66);
+  /* font-family: Lexend; */
+  /* font-size: 10px; */
+  /* font-style: normal; */
+  /* font-weight: 700; */
+  line-height: normal;
+}
